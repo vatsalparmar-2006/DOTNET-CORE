@@ -17,6 +17,7 @@ namespace Lab4
 
         public void Deposit(string check, int check_no)
         {
+            Console.WriteLine("Vatsal Parmar");
         }
 
         public void Deposit(double money)
