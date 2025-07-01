@@ -10,7 +10,7 @@ namespace Lab4
     {
         public void calculateInterest()
         {
-            Console.WriteLine("Simple Interest Of RBI.");
+            Console.WriteLine("\nRBI,");
         }
     }
 

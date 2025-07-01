@@ -1,0 +1,14 @@
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\bin\Debug\net8.0\LabSolution.exe
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\bin\Debug\net8.0\LabSolution.deps.json
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\bin\Debug\net8.0\LabSolution.runtimeconfig.json
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\bin\Debug\net8.0\LabSolution.dll
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\bin\Debug\net8.0\LabSolution.pdb
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\LabSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\LabSolution.AssemblyInfoInputs.cache
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\LabSolution.AssemblyInfo.cs
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\LabSolution.csproj.CoreCompileInputs.cache
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\LabSolution.dll
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\refint\LabSolution.dll
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\LabSolution.pdb
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\LabSolution.genruntimeconfig.cache
+E:\Clg\Sem 5\.net\LabSolution\LabSolution\obj\Debug\net8.0\ref\LabSolution.dll

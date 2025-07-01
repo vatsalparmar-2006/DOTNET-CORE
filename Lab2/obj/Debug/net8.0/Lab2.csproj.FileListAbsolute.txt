@@ -1,0 +1,15 @@
+E:\Clg\Sem 5\.net\LabSolution\Lab2\bin\Debug\net8.0\Lab2.exe
+E:\Clg\Sem 5\.net\LabSolution\Lab2\bin\Debug\net8.0\Lab2.deps.json
+E:\Clg\Sem 5\.net\LabSolution\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+E:\Clg\Sem 5\.net\LabSolution\Lab2\bin\Debug\net8.0\Lab2.dll
+E:\Clg\Sem 5\.net\LabSolution\Lab2\bin\Debug\net8.0\Lab2.pdb
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.dll
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.pdb
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\ref\Lab2.dll
+E:\Clg\Sem 5\.net\LabSolution\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json

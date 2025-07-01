@@ -10,7 +10,7 @@ namespace Lab4
     {
         public void HospitalDetails()
         {
-            Console.WriteLine("This is from Hospital.");
+            Console.WriteLine("\nHospital,");
         }
     }
 

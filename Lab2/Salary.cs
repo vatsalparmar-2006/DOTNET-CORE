@@ -15,9 +15,9 @@ namespace Lab2
             
         public Salary()
         {
-            Console.WriteLine("Enter Basic: ");
+            Console.Write("Enter Basic : ");
             Basic = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter TA: ");
+            Console.Write("Enter TA : ");
             TA = Convert.ToDouble(Console.ReadLine());
             DA = 20000;
             HRA = 25000;
@@ -25,7 +25,7 @@ namespace Lab2
 
         public void TotalSalary()
         {
-            Console.WriteLine($"Total Salary : {Basic + TA + HRA + DA}"sss);
+            Console.WriteLine($"Total Salary : {Basic + TA + HRA + DA}");
         }
     }
 }

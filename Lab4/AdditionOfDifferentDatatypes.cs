@@ -10,12 +10,12 @@ namespace Lab4
     {
         public void Addition(int a, int b)
         {
-            Console.WriteLine($"Addition : {a + b}");
+            Console.WriteLine($"\nAddition({a},{b}) : {a + b}");
         }
 
         public void Addition(float a, float b)
         {
-            Console.WriteLine($"Addition : {a + b}");
+            Console.WriteLine($"Addition({a},{b}) : {a + b}");
         }
     }
 }

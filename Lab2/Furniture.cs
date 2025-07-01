@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,7 +22,7 @@ namespace Lab2
 
         public void DisplayFurnitureDetails()
         {
-            Console.WriteLine($"Material : {Material}");
+            Console.WriteLine($"\nMaterial : {Material}");
             Console.WriteLine($"Price : {Price}");
         }
     }
@@ -34,8 +34,6 @@ namespace Lab2
 
         public void GetTableDetails()
         {
-            GetFurnitureDetails();
-
             Console.Write("Enter Height : ");
             Height = Convert.ToDouble(Console.ReadLine());
 

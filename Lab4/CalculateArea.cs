@@ -10,7 +10,7 @@ namespace Lab4
     {
         public void FindArea(double radius)
         {
-            Console.WriteLine($"Area of Circle : {(3.14 * radius * radius)}");
+            Console.WriteLine($"\nArea of Circle : {(3.14 * radius * radius)}");
         }
 
         public void FindArea(double length, double width)

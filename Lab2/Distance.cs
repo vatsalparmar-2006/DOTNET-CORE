@@ -12,7 +12,7 @@ namespace Lab2
         double dis2;
         double dis3;
 
-        public Distance(int dis1, int dis2)
+        public Distance(double dis1, double dis2)
         {
             this.dis1 = dis1;
             this.dis2 = dis2;
@@ -21,7 +21,7 @@ namespace Lab2
         public void CalculateDistance()
         {
             dis3 = dis1 + dis2;
-            Console.WriteLine($"Addition is : {dis3}");
+            Console.WriteLine($"Distance is : {dis3}");
         }
 
     }

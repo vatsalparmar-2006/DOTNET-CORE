@@ -8,31 +8,57 @@ namespace Lab4
 {
     internal class BankAccount
     {
-        string accountHolderName;
-        public BankAccount(double initialBalance, double accountHolderName)
+        string AccountHolderName;
+        decimal Amount;
+        public BankAccount(string accountHolderName, decimal amount)
         {
-            initialBalance = 0;
-            accountHolderName = accountHolderName;
+            this.AccountHolderName = accountHolderName;
+            this.Amount = amount;
         }
 
-        public void Deposit(string check, int check_no)
+        public void Deposit(decimal cashAmount)
         {
-            Console.WriteLine("Vatsal Parmar");
+            Amount += cashAmount;
+            Console.WriteLine($"Deposited {cashAmount} in cash.");
         }
 
-        public void Deposit(double money)
+        public void Deposit(string chequeNumber, decimal chequeAmount)
         {
-
+            Amount += chequeAmount;
+            Console.WriteLine($"Deposited {chequeAmount} via cheque #{chequeNumber}.");
         }
 
-        public void Withdraw(string check, int check_no)
+        public void Withdraw(decimal cashAmount)
         {
-
+            if (cashAmount <= Amount)
+            {
+                Amount -= cashAmount;
+                Console.WriteLine($"Withdrawn {cashAmount} in cash.");
+            }
+            else
+            {
+                Console.WriteLine("Insufficient balance for cash withdrawal.");
+            }
         }
 
-        public void Withdraw(double money)
+        public void Withdraw(string chequeNumber, decimal chequeAmount)
         {
-
+            if (chequeAmount <= Amount)
+            {
+                Amount -= chequeAmount;
+                Console.WriteLine($"Withdrawn {chequeAmount} via cheque #{chequeNumber}.");
+            }
+            else
+            {
+                Console.WriteLine("Insufficient balance for cheque withdrawal.");
+            }
         }
+
+        public void ShowDetails()
+        {
+            Console.WriteLine($"\nAccount Holder : {AccountHolderName}");
+            Console.WriteLine($"Balance : {Amount}");
+        }
+
     }
 }
